@@ -1,0 +1,3 @@
+id,action,actedAt,actedOn,actionKey,entityId,actor,before,after
+6f8eeb49-bdd2-0173-329e-1d00a203fe66,INSERT_ONE,Mon Apr 24 2023 11:48:23 GMT+0530 (India Standard Time),Product,Products_Logs,9b3c3c15-e3a3-23f7-2fcb-07a2c204afb8,fd875fd3-43a6-113a-c5d8-9ab01ae0d0a2,,[object Object]
+d2031bcc-f138-005a-5319-97e8eadfc882,INSERT_ONE,Mon Apr 24 2023 11:47:59 GMT+0530 (India Standard Time),Product,Products_Logs,155c0380-a07c-6030-e520-7ea330615bcd,fd875fd3-43a6-113a-c5d8-9ab01ae0d0a2,,[object Object]
